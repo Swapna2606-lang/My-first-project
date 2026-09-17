@@ -1,0 +1,8 @@
+{
+  "name": "Classroom Intelligence & Engagement Monitor",
+  "description": "An AI-powered classroom intelligence platform featuring active engagement dashboards, automated attendance scanner, smart seating charts, and real-time generative teacher insights.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
